@@ -36,8 +36,8 @@
     "start": "microbundle-crl watch --jsx React.createElement --compress --tsconfig ./tsconfig.json"
   },
   "peerDependencies": {
-    "react": "^16 || ^17 || ^18",
-    "react-dom": "^16 || ^17 || ^18"
+    "react": "^16 || ^17 || ^18 || ^19.1.0",
+    "react-dom": "^16 || ^17 || ^18 || ^19.1.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^4.2.4",
